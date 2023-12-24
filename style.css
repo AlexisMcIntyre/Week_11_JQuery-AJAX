@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.gamegrid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    background-color: blue;
+    padding: 10px;
+    margin: 20px;
+
+  }
+  .one {
+    background-color: red;
+    border: 2px solid;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .two {
+    background-color: red;
+    border: 2px solid;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .three {
+    background-color: red;
+    border: 2px solid;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .four {
+    background-color: red;
+    border: 2px solid;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .five {
+    background-color: red;
+    border: 2px solid;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .six {
+    background-color: red;
+    border: 2px solid;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .seven {
+    background-color: red;
+    border: 2px solid;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .eight {
+    background-color: red;
+    border: 2px solid;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+  }
+  .nine {
+    background-color: red;
+    border: 2px solid;
+    padding: 5px;
+    font-size: 50px;
+    text-align: center;
+  }
